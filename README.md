@@ -21,6 +21,3 @@ labels_clean.csv - CSV file containing the class labels of all the images in the
 images_dataset_grayscale file with no NaNs.
 
 labels.csv - CSV file containing the class labels with NaNs.
-
-images_dataset_test_1 file - Contains images used by QuAM_report.ipynb to test the
-accuracy of the models.
