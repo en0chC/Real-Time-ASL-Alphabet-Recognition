@@ -11,8 +11,8 @@ DataPreparation.ipynb - Jupyter notebook containing the D2 data preparation repo
 
 QuAM_report.ipynb - Jupyter notebook containing the D3 model training report.
 
-CNN_model file - Contains the saved CNN model that is loaded and used by 
-QuAM_app.py.
+CNN_Model Google Drive Link.md  - Contains the Google Drive link of the saved CNN model 
+that is loaded and used by QuAM_app.py.
 
 labels_ohe.csv - CSV file containing the one hot encoded class labels of all the 
 images in the images_dataset_grayscale file with no NaNs.
